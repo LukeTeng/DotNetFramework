@@ -1,0 +1,5 @@
+﻿
+
+This project is used to implement complex service logic.
+
+Interface injection is used in order to do unit test for all the major features.

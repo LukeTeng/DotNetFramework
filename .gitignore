@@ -1,0 +1,6 @@
+/.vs/ExperienceThis/v14/.suo
+/.vs/config/applicationhost.config
+**/logs/
+**/obj/
+**/bin/debug/
+/packages/
